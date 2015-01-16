@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-[github](https://github.com/ouyanggh)
+[github](https://github.com/stathyzhang)
